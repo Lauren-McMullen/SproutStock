@@ -1,0 +1,2 @@
+This project is an academic project from a introductory software development course. I was driven to develop a simple inventory management system for a flower shop after experiencing my own frustrations with disorganized inventory at a previous retail job.
+Developing a solution to a real-world business problem was a highly rewarding and motivating experience. This project uses Java, the JUnit test suite, and the Java Swing library for the GUI. 
